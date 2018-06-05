@@ -1,6 +1,20 @@
+
+
+
+![Alt Text](https://cdn-images-1.medium.com/max/1397/1*yGFvyglXcEt-ZOV3IWQTdw.jpeg)
 # Demo-Git
 
+
 ## Voici plusieurs commandes utile sur Git
+
+
+### __init__ :
+```
+git init
+```
+> Initialise un dossier Git
+> https://git-scm.com/book/fr/v1/Les-bases-de-Git-Démarrer-un-dépôt-Git
+
 
 ### __commit__ :
 ```
@@ -32,11 +46,4 @@ git merge homepage
 ```
 > Permet de fusionner deux branches
 ___
-### __init__ :
-```
-git init
-```
-> Initialise un dossier Git
-> https://git-scm.com/book/fr/v1/Les-bases-de-Git-Démarrer-un-dépôt-Git
 
-![Alt Text](https://cdn-images-1.medium.com/max/1397/1*yGFvyglXcEt-ZOV3IWQTdw.jpeg)
